@@ -37,8 +37,6 @@
    * GND → ESP32 GND
    * SCL → ESP32 GPIO 22
    * SDA → ESP32 GPIO 21
-   * IRQ → ESP32 GPIO 2
-   * RSTO → ESP32 GPIO 3
 
 2. **SSD1306 OLED 显示屏（I²C，Wire 1）**
 
