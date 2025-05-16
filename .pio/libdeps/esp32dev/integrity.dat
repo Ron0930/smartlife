@@ -1,0 +1,4 @@
+adafruit/Adafruit PN532@^1.3
+adafruit/Adafruit SSD1306@^2.5.7
+adafruit/Adafruit GFX Library@^1.11.0
+thingscloud/ThingsCloud_ESP_SDK@^1.0.10
